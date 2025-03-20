@@ -46,6 +46,8 @@ Someone can download my code, make changes, and they do it on a different branch
 
 There will still be a master branch and I can make changes but it won't impact the main changes getting made.
 
+**I'm making this change on a branch!!**
+
 ###See all my logs
 'git log' is a log of all saved changes with information about those saves like the time and date.
 
