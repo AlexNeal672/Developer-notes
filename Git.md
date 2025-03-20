@@ -48,6 +48,13 @@ There will still be a master branch and I can make changes but it won't impact t
 
 **I'm making this change on a branch!!**
 
+####Merge branches - pull request
+If I change like 50 things I can push them all to the main branch, or I can delete it, whatever - the branch doesn't matter until I want to merge it in.
+
+Checkout the changes and then maybe merge it in.
+
+On GitHub you can make a pull request
+
 ###See all my logs
 'git log' is a log of all saved changes with information about those saves like the time and date.
 
