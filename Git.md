@@ -32,6 +32,9 @@ Technically this adds all files to the staging area
 ###Commit the changes to memory
 'git commit -m '{describe the save}' the message lets you go back to the version you are saving. Example: 'git commit -m 'create new Git markdown'
 
+###Push the updates to GitHub
+'git push -u origin main' allows me to push my committed changes.
+
 ###See all my logs
 'git log' is a log of all saved changes with information about those saves like the time and date.
 
