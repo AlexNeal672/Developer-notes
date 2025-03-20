@@ -31,3 +31,19 @@ Technically this adds all files to the staging area
 
 ###Commit the changes to memory
 'git commit -m '{describe the save}' the message lets you go back to the version you are saving. Example: 'git commit -m 'create new Git markdown'
+
+###See all my logs
+'git log' is a log of all saved changes with information about those saves like the time and date.
+
+###Go back to previous progress
+You'd copy the commit id and use 'git checkout {id}'
+
+The tricky part is when you create a different branch.
+
+##Github
+Github is a website where I can save all my progress on the internet so other people can look through all my code.
+
+###Get code onto GitHub
+Create account, create repository
+
+It gives you instructions on how to set it up.
