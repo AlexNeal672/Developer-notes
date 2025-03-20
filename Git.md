@@ -35,6 +35,17 @@ Technically this adds all files to the staging area
 ###Push the updates to GitHub
 'git push -u origin main' allows me to push my committed changes.
 
+###Branches
+By default all the code is on a main branch and that's just regular, saving the changes to the master memory.
+
+Someone can go off and trail off, you go off and do something on your friends game but you don't want to save it to their main game so they can do it later and then I save it as a new game. That's branching.
+
+Someone can download my code, make changes, and they do it on a different branch.
+
+'git checkout -b {name of branch}'
+
+There will still be a master branch and I can make changes but it won't impact the main changes getting made.
+
 ###See all my logs
 'git log' is a log of all saved changes with information about those saves like the time and date.
 
